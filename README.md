@@ -13,6 +13,7 @@ magnetic-oxides_ml/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
+├── .env.example
 ├── notebooks/
 │   ├── 01_data_collection.ipynb       # Выгрузка Materials Project, очистка и rule-based фильтр токсичности
 │   ├── 02_magpie_baselines.ipynb      # 132 дескриптора состава (Magpie) и базовые модели (LR, RF)
