@@ -1,4 +1,7 @@
 .env
+data/
+*.csv
+!results/*.csv
 *.joblib
 *.pkl
 __pycache__/
